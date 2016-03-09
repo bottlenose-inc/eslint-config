@@ -26,14 +26,7 @@
     "templateStrings": true,
     "unicodeCodePointEscapes": true
   },
-  "globals": {
-    "define": 1,
-    "logger": 1,
-    "__DEVTOOLS__": 1,
-    "__DEVELOPMENT__": 1,
-    "__SLOW_DEVTOOLS__": 1,
-    "expect": 1
-  },
+  "globals": {},
   "rules": {
     // overrides some standard-js styles, and changes a few from errors to warnings
     "semi": [1, "always"],
